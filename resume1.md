@@ -16,10 +16,6 @@ Motivated Computer Science graduate with a strong foundation in web development,
 Rajiv Gandhi University of Knowledge Technologies, Ongole  
 **Graduated**
 
-**High School**  
-Sri Sarada Zilla Parishad High School  
-03/2022
-
 ## Projects
 
 ### Sentinel Guard | Personal Project
